@@ -21,7 +21,6 @@ classifiers = [
 packages = [{ include = "geoip2_extras" }]
 
 [tool.poetry.dependencies]
-python = "^3.7"
 django = "^2.2 || ^3.0"
 python-env-utils = "*"
 geoip2 = "^3.0.0"
